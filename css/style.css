@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "DS";
+    src: url("fonts/DancingScript-VariableFont_wght.ttf");
+}
+h1 {
+    font-family: "DS";
+    color:blue
+}
+p {
+    font-family: "DS";
+    color:rgb(0, 0, 73)
+}
