@@ -1,2 +1,2 @@
-# Saj-tOldal
+# SajátOldal
 SajátOldal fejlesztése
